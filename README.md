@@ -27,5 +27,5 @@ The results of the three models were compared based on their MAPE scores. The Ex
 
 # Conclusion
 
-The Exponential Smoothing Model was used to predict the gold prices for the period 2020-08 to 2025-02. The predicted prices are stored in a CSV file named gold_price_predictions.csv.
+The Exponential Smoothing Model was used to predict the gold prices for the period 2020-08 to 2025-02. The predicted prices are stored in a CSV file named gold_monthly_csv.csv.
 
